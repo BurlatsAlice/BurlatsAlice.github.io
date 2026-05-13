@@ -23,10 +23,10 @@ repository               : "BurlatsAlice/BurlatsAlice.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1773915483669.jpeg"
   name             : "Alice Burlats"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "she/her"  
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Belgium"
   employer         : "UCLouvain"
   uri              : # URL
